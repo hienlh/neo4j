@@ -1,0 +1,5 @@
+psycopg2-binary
+py2neo
+faker
+neo4j
+tqdm

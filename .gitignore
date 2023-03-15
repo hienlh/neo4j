@@ -1,0 +1,4 @@
+neo4j/*
+node_modules/*
+pg_pathman-1.5.12/*
+postgres/*
